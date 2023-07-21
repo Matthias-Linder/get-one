@@ -1,0 +1,27 @@
+@font-face { font-family: AgencyFB; src: url('resources/AGENCYR.TTF'); } 
+
+body {
+  background-color: black;
+}
+
+.font {  
+    font-family: 'AgencyFB';
+    color: white;
+}
+
+.text {
+    font-size: xx-large;
+    align-content: justify;
+}
+
+h1 {
+    color: white;
+}
+
+.space {
+    background-color: red;
+}
+
+.content{
+    background-color: aqua;
+}
