@@ -10,8 +10,20 @@ body {
 }
 
 .text {
-    font-size: xx-large;
+    font-size: 25px;
     align-content: justify;
+}
+
+.heading {
+    font-size: 40px;
+}
+
+.navHeading {
+    font-size: 20px;
+}
+
+p {
+    text-align: justify;
 }
 
 h1 {
@@ -24,4 +36,8 @@ h1 {
 
 .content{
     background-color: aqua;
+}
+
+.paddingText {
+    padding: 50px;
 }
