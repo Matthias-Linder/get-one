@@ -1,43 +1,63 @@
-@font-face { font-family: AgencyFB; src: url('resources/AGENCYR.TTF'); } 
+@font-face {
+  font-family: AgencyFB;
+  src: url("resources/AGENCYR.TTF");
+}
 
 body {
   background-color: black;
 }
 
-.font {  
-    font-family: 'AgencyFB';
-    color: white;
+.font {
+  font-family: "AgencyFB";
+  color: white;
+}
+
+.justFont {
+  font-family: "AgencyFB";
 }
 
 .text {
-    font-size: 25px;
-    align-content: justify;
+  font-size: 25px;
+  align-content: justify;
 }
 
 .heading {
-    font-size: 40px;
+  font-size: 40px;
 }
 
 .navHeading {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 p {
-    text-align: justify;
+  text-align: justify;
+}
+
+.justify {
+  text-align: justify;
 }
 
 h1 {
-    color: white;
+  color: white;
 }
 
 .space {
-    background-color: red;
+  background-color: red;
 }
 
-.content{
-    background-color: aqua;
+.content {
+  background-color: aqua;
 }
 
 .paddingText {
-    padding: 50px;
+  padding: 50px;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.spaceMargin {
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
